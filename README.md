@@ -148,55 +148,88 @@ Provides AI-assisted executive decision support by:
 
 # Enterprise Architecture Blueprint
 
-The target-state enterprise architecture consists of:
+MetroHealth TransformX is built on a target-state enterprise architecture that demonstrates how a Health Maintenance Organization can evolve into a modern, data-driven, AI-enabled digital health enterprise.
+
+![Enterprise Architecture Blueprint](screenshots/enterprise_architecture.png)
+
+The architecture integrates digital core operations, interoperability services, enterprise data platforms, advanced analytics, artificial intelligence, governance, cybersecurity, and executive decision intelligence into a unified transformation ecosystem.
+
+## Architecture Layers
 
 ### Executive Intelligence Layer
 
-- Executive Dashboards
+- Executive Command Center
+- CEO/CIO/CFO/COO Dashboards
 - Executive AI Copilot
 - Strategic KPI Monitoring
+- Enterprise Performance Management
 
 ### AI & Intelligent Automation Layer
 
 - Fraud Detection
 - Claims Risk Scoring
-- Churn Prediction
+- Member Churn Prediction
 - Provider Intelligence
 - Population Health Analytics
+- Intelligent Automation
 
-### Analytics & Intelligence Layer
+### Analytics & Business Intelligence Layer
 
 - Operational Analytics
 - Financial Analytics
 - Customer Analytics
 - Provider Analytics
 - Compliance Analytics
+- Enterprise Reporting
 
 ### Enterprise Data Platform Layer
 
-- Data Lake
-- Data Warehouse
+- Enterprise Data Lake
+- Enterprise Data Warehouse
 - Master Data Management
 - Metadata Repository
 - Data Quality Framework
+- Enterprise Data Governance
 
 ### Integration & Interoperability Layer
 
-- APIs
+- API Gateway
 - FHIR
 - HL7
 - ICD-10
 - LOINC
-- Provider Integrations
+- External Partner Integrations
+- Secure Data Exchange
 
 ### Digital Core Systems Layer
 
 - Claims Management
 - Member Management
 - Provider Management
-- CRM
-- Billing
-- Compliance
+- CRM & Member Engagement
+- Finance & Billing
+- Compliance Management
+
+## Governance, Security & Compliance
+
+The architecture is supported by enterprise-wide governance and security capabilities, including:
+
+- Enterprise Architecture Governance (TOGAF)
+- IT Governance (COBIT, ITIL)
+- Data Governance
+- Responsible AI Governance
+- Cybersecurity & Privacy Controls
+- NDPR, NHIA & Regulatory Compliance
+
+## Strategic Business Outcomes
+
+- Improved Operational Efficiency
+- Accelerated Claims Processing
+- Enhanced Member Experience
+- Data-Driven Decision Making
+- Responsible AI Adoption
+- Enterprise-Wide Digital Transformation
+- Sustainable Growth & Innovation
 
 ---
 
