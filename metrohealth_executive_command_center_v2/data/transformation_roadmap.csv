@@ -1,0 +1,11 @@
+initiative,workstream,owner,status,completion_pct,budget,spend,expected_benefit
+Digital Steering Committee,Governance,CIO,Green,100,25000000,22000000,Improved accountability
+Enterprise Architecture Blueprint,Enterprise Architecture,CIO,Green,95,45000000,43000000,Platform alignment
+Claims Workflow Digitization,Claims Transformation,COO,Amber,72,180000000,140000000,Reduced turnaround time
+Enterprise Data Warehouse,Data & Analytics,CDO,Amber,65,220000000,150000000,Unified reporting
+Member Mobile App,Digital Experience,CMO,Amber,58,160000000,90000000,Digital adoption
+Provider Portal,Provider Integration,COO,Red,42,150000000,80000000,Provider self-service
+API Gateway,Interoperability,CTO,Amber,55,210000000,118000000,Ecosystem connectivity
+Fraud Detection Model,Healthcare AI,AI Lead,Green,78,95000000,72000000,Fraud savings
+Executive Command Center,Executive Intelligence,CIO,Amber,61,130000000,77000000,Executive visibility
+Cybersecurity Modernization,Security,CISO,Green,84,175000000,148000000,Risk reduction

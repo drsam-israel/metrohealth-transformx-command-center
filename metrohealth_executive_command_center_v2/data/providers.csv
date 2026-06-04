@@ -1,0 +1,301 @@
+provider_id,provider_name,provider_type,state,active_members,satisfaction_score,utilization_rate,claims_submitted,reimbursement_days,performance_score
+MH-PROV-0001,MetroHealth Partner Provider 1,Pharmacy,Lagos,2348,70.4,62.2,3505,2.3,76.1
+MH-PROV-0002,MetroHealth Partner Provider 2,Pharmacy,Rivers,2348,56.6,70.5,5918,15.0,69.3
+MH-PROV-0003,MetroHealth Partner Provider 3,Pharmacy,Rivers,1465,92.5,61.3,3540,10.4,82.3
+MH-PROV-0004,MetroHealth Partner Provider 4,Specialist Center,Oyo,1292,81.6,80.9,4321,13.0,83.0
+MH-PROV-0005,MetroHealth Partner Provider 5,Hospital,Kano,5355,81.2,58.6,4789,13.9,75.9
+MH-PROV-0006,MetroHealth Partner Provider 6,Hospital,Lagos,3678,83.5,74.2,308,7.3,83.5
+MH-PROV-0007,MetroHealth Partner Provider 7,Clinic,Lagos,1549,77.3,72.5,3137,5.5,81.0
+MH-PROV-0008,MetroHealth Partner Provider 8,Hospital,Lagos,4900,76.5,65.7,4999,23.9,73.1
+MH-PROV-0009,MetroHealth Partner Provider 9,Hospital,Kano,4660,82.7,64.8,5404,4.5,81.2
+MH-PROV-0010,MetroHealth Partner Provider 10,Hospital,Abuja,5815,67.1,79.7,5020,7.9,78.4
+MH-PROV-0011,MetroHealth Partner Provider 11,Hospital,Lagos,854,86.3,67.2,2186,17.7,79.4
+MH-PROV-0012,MetroHealth Partner Provider 12,Hospital,Kano,5617,80.0,31.7,2480,12.6,67.7
+MH-PROV-0013,MetroHealth Partner Provider 13,Clinic,Oyo,2015,68.4,55.2,5557,8.9,71.2
+MH-PROV-0014,MetroHealth Partner Provider 14,Clinic,Kano,4184,83.8,66.2,1637,11.0,80.1
+MH-PROV-0015,MetroHealth Partner Provider 15,Clinic,Rivers,3249,87.8,60.1,1687,15.4,78.5
+MH-PROV-0016,MetroHealth Partner Provider 16,Hospital,Lagos,1323,62.2,57.4,1025,16.1,67.3
+MH-PROV-0017,MetroHealth Partner Provider 17,Pharmacy,Rivers,2171,72.1,53.9,3372,10.5,71.9
+MH-PROV-0018,MetroHealth Partner Provider 18,Hospital,Abuja,3338,77.5,77.5,2646,9.5,81.4
+MH-PROV-0019,MetroHealth Partner Provider 19,Clinic,Abuja,5743,87.7,64.2,5034,17.3,79.2
+MH-PROV-0020,MetroHealth Partner Provider 20,Hospital,Oyo,5329,85.9,46.3,4135,18.1,72.8
+MH-PROV-0021,MetroHealth Partner Provider 21,Clinic,Lagos,4703,82.4,72.2,3552,1.0,84.3
+MH-PROV-0022,MetroHealth Partner Provider 22,Clinic,Lagos,5947,91.4,85.0,5308,10.9,88.8
+MH-PROV-0023,MetroHealth Partner Provider 23,Clinic,Kano,1482,85.3,91.2,4314,5.9,89.7
+MH-PROV-0024,MetroHealth Partner Provider 24,Hospital,Oyo,6085,93.5,52.8,5693,18.9,77.6
+MH-PROV-0025,MetroHealth Partner Provider 25,Laboratory,Lagos,6258,74.7,49.6,1207,11.9,71.2
+MH-PROV-0026,MetroHealth Partner Provider 26,Pharmacy,Abuja,1023,80.2,45.5,5559,8.9,73.1
+MH-PROV-0027,MetroHealth Partner Provider 27,Clinic,Abuja,2209,76.6,66.0,1710,15.7,75.7
+MH-PROV-0028,MetroHealth Partner Provider 28,Hospital,Lagos,4341,76.3,73.9,5889,14.6,78.3
+MH-PROV-0029,MetroHealth Partner Provider 29,Specialist Center,Kano,6426,97.8,33.0,4023,8.1,76.6
+MH-PROV-0030,MetroHealth Partner Provider 30,Hospital,Kano,5359,83.3,79.2,5979,2.8,86.2
+MH-PROV-0031,MetroHealth Partner Provider 31,Hospital,Abuja,420,87.8,80.7,5612,15.4,84.7
+MH-PROV-0032,MetroHealth Partner Provider 32,Clinic,Abuja,873,77.6,73.5,5555,12.1,79.5
+MH-PROV-0033,MetroHealth Partner Provider 33,Hospital,Lagos,2105,82.3,37.4,1018,22.3,67.4
+MH-PROV-0034,MetroHealth Partner Provider 34,Pharmacy,Abuja,3822,78.3,50.0,971,12.5,72.6
+MH-PROV-0035,MetroHealth Partner Provider 35,Hospital,Lagos,5149,88.0,62.1,3888,16.6,78.8
+MH-PROV-0036,MetroHealth Partner Provider 36,Specialist Center,Lagos,5353,80.2,45.4,2479,12.8,71.9
+MH-PROV-0037,MetroHealth Partner Provider 37,Hospital,Lagos,5237,77.2,57.7,4294,7.6,75.9
+MH-PROV-0038,MetroHealth Partner Provider 38,Clinic,Abuja,1079,97.6,58.1,1806,5.8,84.7
+MH-PROV-0039,MetroHealth Partner Provider 39,Laboratory,Kano,6062,77.4,68.6,3900,14.1,77.3
+MH-PROV-0040,MetroHealth Partner Provider 40,Specialist Center,Kano,6329,81.4,88.6,4737,17.7,83.8
+MH-PROV-0041,MetroHealth Partner Provider 41,Laboratory,Rivers,2930,88.0,77.0,4779,6.1,86.5
+MH-PROV-0042,MetroHealth Partner Provider 42,Clinic,Abuja,3709,63.6,64.3,4145,6.6,72.8
+MH-PROV-0043,MetroHealth Partner Provider 43,Laboratory,Rivers,2055,85.1,81.3,2566,10.3,85.3
+MH-PROV-0044,MetroHealth Partner Provider 44,Clinic,Lagos,571,67.9,60.4,1054,13.6,71.2
+MH-PROV-0045,MetroHealth Partner Provider 45,Clinic,Lagos,3031,72.3,63.0,4961,7.9,75.4
+MH-PROV-0046,MetroHealth Partner Provider 46,Clinic,Abuja,1932,100.0,80.7,3396,9.8,91.3
+MH-PROV-0047,MetroHealth Partner Provider 47,Hospital,Lagos,2118,99.9,54.6,2282,8.1,83.9
+MH-PROV-0048,MetroHealth Partner Provider 48,Hospital,Oyo,3029,82.8,63.9,1258,12.0,78.7
+MH-PROV-0049,MetroHealth Partner Provider 49,Hospital,Lagos,648,73.5,64.4,375,14.2,74.5
+MH-PROV-0050,MetroHealth Partner Provider 50,Hospital,Abuja,2781,64.9,86.1,1197,12.9,77.9
+MH-PROV-0051,MetroHealth Partner Provider 51,Hospital,Abuja,1240,75.2,63.0,4152,16.9,73.9
+MH-PROV-0052,MetroHealth Partner Provider 52,Specialist Center,Lagos,363,87.4,42.9,737,14.9,73.4
+MH-PROV-0053,MetroHealth Partner Provider 53,Pharmacy,Rivers,2135,87.5,24.1,4473,12.3,68.5
+MH-PROV-0054,MetroHealth Partner Provider 54,Clinic,Kano,5221,79.8,77.1,1261,9.4,82.2
+MH-PROV-0055,MetroHealth Partner Provider 55,Laboratory,Abuja,3677,51.4,51.6,3349,8.7,63.4
+MH-PROV-0056,MetroHealth Partner Provider 56,Hospital,Kano,4312,80.8,54.8,3460,16.3,73.9
+MH-PROV-0057,MetroHealth Partner Provider 57,Clinic,Lagos,1686,83.8,63.3,5118,14.5,78.2
+MH-PROV-0058,MetroHealth Partner Provider 58,Clinic,Rivers,1947,71.2,80.8,2627,12.6,78.9
+MH-PROV-0059,MetroHealth Partner Provider 59,Laboratory,Abuja,6341,84.1,78.3,2793,8.4,84.6
+MH-PROV-0060,MetroHealth Partner Provider 60,Hospital,Lagos,5108,79.0,52.1,2594,8.7,74.6
+MH-PROV-0061,MetroHealth Partner Provider 61,Specialist Center,Kano,3299,85.9,54.5,2358,11.6,77.2
+MH-PROV-0062,MetroHealth Partner Provider 62,Clinic,Lagos,2879,76.2,57.4,5401,13.2,73.7
+MH-PROV-0063,MetroHealth Partner Provider 63,Clinic,Abuja,2086,73.5,96.1,5637,11.3,84.8
+MH-PROV-0064,MetroHealth Partner Provider 64,Laboratory,Abuja,6209,83.6,68.3,4051,16.2,79.1
+MH-PROV-0065,MetroHealth Partner Provider 65,Hospital,Rivers,351,83.6,66.5,831,21.6,76.9
+MH-PROV-0066,MetroHealth Partner Provider 66,Clinic,Kano,2114,65.7,79.1,3848,7.8,77.7
+MH-PROV-0067,MetroHealth Partner Provider 67,Laboratory,Lagos,2411,68.0,85.8,3096,18.8,77.3
+MH-PROV-0068,MetroHealth Partner Provider 68,Clinic,Rivers,4104,77.2,76.3,2263,13.8,79.6
+MH-PROV-0069,MetroHealth Partner Provider 69,Pharmacy,Rivers,1645,86.9,70.2,1418,16.4,80.9
+MH-PROV-0070,MetroHealth Partner Provider 70,Laboratory,Lagos,5720,82.2,52.0,2723,6.4,76.6
+MH-PROV-0071,MetroHealth Partner Provider 71,Laboratory,Lagos,4146,73.7,63.0,4507,20.2,72.3
+MH-PROV-0072,MetroHealth Partner Provider 72,Pharmacy,Abuja,2043,79.7,79.4,3264,19.5,79.8
+MH-PROV-0073,MetroHealth Partner Provider 73,Clinic,Lagos,4855,68.1,32.9,3521,15.4,62.5
+MH-PROV-0074,MetroHealth Partner Provider 74,Clinic,Rivers,4968,53.7,82.4,2718,6.5,74.2
+MH-PROV-0075,MetroHealth Partner Provider 75,Clinic,Lagos,2933,92.0,75.3,4472,14.3,85.1
+MH-PROV-0076,MetroHealth Partner Provider 76,Clinic,Abuja,3688,89.1,71.4,2171,6.8,85.0
+MH-PROV-0077,MetroHealth Partner Provider 77,Hospital,Abuja,2191,95.3,52.1,386,14.0,79.6
+MH-PROV-0078,MetroHealth Partner Provider 78,Clinic,Oyo,3059,80.1,16.2,4082,17.0,61.8
+MH-PROV-0079,MetroHealth Partner Provider 79,Clinic,Abuja,3504,98.4,58.4,4298,13.4,82.9
+MH-PROV-0080,MetroHealth Partner Provider 80,Hospital,Oyo,1169,89.6,75.2,4436,4.7,87.0
+MH-PROV-0081,MetroHealth Partner Provider 81,Clinic,Kano,427,88.0,39.3,570,15.9,72.2
+MH-PROV-0082,MetroHealth Partner Provider 82,Pharmacy,Abuja,1745,82.1,79.2,1160,17.7,81.3
+MH-PROV-0083,MetroHealth Partner Provider 83,Hospital,Abuja,3718,69.9,70.7,2919,16.0,74.4
+MH-PROV-0084,MetroHealth Partner Provider 84,Clinic,Rivers,3843,90.0,48.9,2031,10.9,77.4
+MH-PROV-0085,MetroHealth Partner Provider 85,Hospital,Abuja,6340,68.9,58.9,2329,13.6,71.2
+MH-PROV-0086,MetroHealth Partner Provider 86,Clinic,Abuja,2731,96.9,76.4,3808,14.8,87.2
+MH-PROV-0087,MetroHealth Partner Provider 87,Clinic,Oyo,2032,82.1,48.8,3891,5.0,76.0
+MH-PROV-0088,MetroHealth Partner Provider 88,Pharmacy,Abuja,6406,65.1,21.1,1291,17.8,57.0
+MH-PROV-0089,MetroHealth Partner Provider 89,Clinic,Kano,4507,61.7,56.4,2684,4.6,70.2
+MH-PROV-0090,MetroHealth Partner Provider 90,Hospital,Rivers,3653,99.4,63.1,1971,9.8,85.8
+MH-PROV-0091,MetroHealth Partner Provider 91,Hospital,Abuja,334,75.4,49.7,1147,15.8,70.3
+MH-PROV-0092,MetroHealth Partner Provider 92,Clinic,Rivers,674,94.1,73.5,426,12.8,85.8
+MH-PROV-0093,MetroHealth Partner Provider 93,Hospital,Abuja,1574,88.5,62.3,906,5.1,82.6
+MH-PROV-0094,MetroHealth Partner Provider 94,Specialist Center,Abuja,3903,82.9,61.5,4089,11.7,78.1
+MH-PROV-0095,MetroHealth Partner Provider 95,Hospital,Lagos,1956,90.3,62.3,2900,12.8,81.0
+MH-PROV-0096,MetroHealth Partner Provider 96,Laboratory,Kano,3821,100.0,59.8,2718,13.5,83.9
+MH-PROV-0097,MetroHealth Partner Provider 97,Clinic,Lagos,6460,91.7,98.1,3536,8.2,93.6
+MH-PROV-0098,MetroHealth Partner Provider 98,Pharmacy,Lagos,4967,75.2,64.2,1844,13.8,75.2
+MH-PROV-0099,MetroHealth Partner Provider 99,Hospital,Abuja,5939,79.0,64.3,4365,19.6,75.0
+MH-PROV-0100,MetroHealth Partner Provider 100,Clinic,Kano,444,78.4,72.3,2147,18.0,77.6
+MH-PROV-0101,MetroHealth Partner Provider 101,Hospital,Lagos,325,79.5,55.3,1502,13.0,74.5
+MH-PROV-0102,MetroHealth Partner Provider 102,Pharmacy,Kano,3074,71.8,48.3,3535,12.9,69.3
+MH-PROV-0103,MetroHealth Partner Provider 103,Pharmacy,Abuja,2918,75.9,70.5,4406,8.8,78.9
+MH-PROV-0104,MetroHealth Partner Provider 104,Clinic,Lagos,3432,70.9,83.2,5439,10.7,80.1
+MH-PROV-0105,MetroHealth Partner Provider 105,Pharmacy,Kano,5078,60.4,58.0,1826,9.9,68.6
+MH-PROV-0106,MetroHealth Partner Provider 106,Hospital,Lagos,5071,91.0,37.8,931,3.7,76.6
+MH-PROV-0107,MetroHealth Partner Provider 107,Hospital,Rivers,3906,69.6,70.7,3092,9.3,76.3
+MH-PROV-0108,MetroHealth Partner Provider 108,Pharmacy,Abuja,3323,77.4,89.6,445,1.0,87.5
+MH-PROV-0109,MetroHealth Partner Provider 109,Hospital,Kano,2609,83.2,49.0,5165,8.0,75.6
+MH-PROV-0110,MetroHealth Partner Provider 110,Clinic,Lagos,377,68.0,48.7,5767,14.5,67.5
+MH-PROV-0111,MetroHealth Partner Provider 111,Hospital,Abuja,5768,80.3,23.7,1873,8.2,66.8
+MH-PROV-0112,MetroHealth Partner Provider 112,Clinic,Kano,6215,69.8,76.5,2930,1.0,80.6
+MH-PROV-0113,MetroHealth Partner Provider 113,Specialist Center,Lagos,1239,89.1,68.4,3679,7.4,83.9
+MH-PROV-0114,MetroHealth Partner Provider 114,Hospital,Kano,1065,88.2,59.6,547,13.0,79.3
+MH-PROV-0115,MetroHealth Partner Provider 115,Pharmacy,Lagos,3264,77.3,77.0,2206,1.0,83.7
+MH-PROV-0116,MetroHealth Partner Provider 116,Specialist Center,Lagos,5382,77.4,96.6,5575,18.5,84.4
+MH-PROV-0117,MetroHealth Partner Provider 117,Hospital,Abuja,3097,84.3,90.8,3062,12.6,87.2
+MH-PROV-0118,MetroHealth Partner Provider 118,Specialist Center,Lagos,4301,62.2,69.9,2625,14.4,71.5
+MH-PROV-0119,MetroHealth Partner Provider 119,Specialist Center,Rivers,3099,71.7,70.9,1640,16.1,75.1
+MH-PROV-0120,MetroHealth Partner Provider 120,Specialist Center,Lagos,4379,79.3,77.7,3046,9.4,82.2
+MH-PROV-0121,MetroHealth Partner Provider 121,Laboratory,Lagos,4421,100.0,60.3,5191,15.9,83.3
+MH-PROV-0122,MetroHealth Partner Provider 122,Clinic,Abuja,281,69.9,41.4,2685,12.2,66.7
+MH-PROV-0123,MetroHealth Partner Provider 123,Hospital,Oyo,1387,71.1,64.9,3444,3.7,76.8
+MH-PROV-0124,MetroHealth Partner Provider 124,Laboratory,Kano,5575,85.9,83.5,3123,10.3,86.3
+MH-PROV-0125,MetroHealth Partner Provider 125,Hospital,Lagos,4374,83.8,87.0,4828,6.6,87.6
+MH-PROV-0126,MetroHealth Partner Provider 126,Laboratory,Oyo,2927,76.8,56.9,5067,11.1,74.5
+MH-PROV-0127,MetroHealth Partner Provider 127,Clinic,Abuja,581,72.9,40.5,4624,11.6,67.8
+MH-PROV-0128,MetroHealth Partner Provider 128,Clinic,Rivers,2673,80.6,47.8,5850,10.6,73.4
+MH-PROV-0129,MetroHealth Partner Provider 129,Hospital,Lagos,1101,82.0,69.2,3710,11.4,80.1
+MH-PROV-0130,MetroHealth Partner Provider 130,Pharmacy,Abuja,3001,66.4,53.6,3920,5.8,70.9
+MH-PROV-0131,MetroHealth Partner Provider 131,Hospital,Kano,3637,83.8,71.0,3945,9.3,82.0
+MH-PROV-0132,MetroHealth Partner Provider 132,Clinic,Rivers,4121,61.4,66.0,711,1.4,73.9
+MH-PROV-0133,MetroHealth Partner Provider 133,Laboratory,Lagos,3328,56.5,40.7,850,10.8,61.6
+MH-PROV-0134,MetroHealth Partner Provider 134,Clinic,Lagos,4791,81.1,59.8,3829,19.5,74.5
+MH-PROV-0135,MetroHealth Partner Provider 135,Clinic,Rivers,5315,82.9,61.2,3257,11.6,78.0
+MH-PROV-0136,MetroHealth Partner Provider 136,Hospital,Kano,5811,83.7,50.1,5273,8.0,76.1
+MH-PROV-0137,MetroHealth Partner Provider 137,Clinic,Abuja,4351,84.7,43.7,1304,23.4,70.0
+MH-PROV-0138,MetroHealth Partner Provider 138,Laboratory,Lagos,4855,80.0,57.0,618,13.7,75.0
+MH-PROV-0139,MetroHealth Partner Provider 139,Clinic,Lagos,5929,92.8,72.0,3902,17.2,83.6
+MH-PROV-0140,MetroHealth Partner Provider 140,Pharmacy,Abuja,2537,76.7,58.7,361,17.4,73.1
+MH-PROV-0141,MetroHealth Partner Provider 141,Specialist Center,Oyo,6467,66.3,58.3,2877,12.2,70.4
+MH-PROV-0142,MetroHealth Partner Provider 142,Laboratory,Lagos,4354,61.9,42.8,2742,5.9,65.8
+MH-PROV-0143,MetroHealth Partner Provider 143,Pharmacy,Rivers,5048,83.0,74.5,5206,6.2,83.7
+MH-PROV-0144,MetroHealth Partner Provider 144,Specialist Center,Rivers,3709,76.5,82.0,4691,16.3,80.3
+MH-PROV-0145,MetroHealth Partner Provider 145,Hospital,Abuja,4778,69.8,72.6,2513,14.8,75.3
+MH-PROV-0146,MetroHealth Partner Provider 146,Clinic,Rivers,3614,84.8,52.4,4436,13.4,75.6
+MH-PROV-0147,MetroHealth Partner Provider 147,Pharmacy,Abuja,3081,85.0,63.6,3120,14.6,78.7
+MH-PROV-0148,MetroHealth Partner Provider 148,Clinic,Kano,3018,57.0,29.4,4368,13.1,57.7
+MH-PROV-0149,MetroHealth Partner Provider 149,Specialist Center,Abuja,264,63.2,6.1,4005,15.1,52.6
+MH-PROV-0150,MetroHealth Partner Provider 150,Clinic,Lagos,6013,73.8,62.1,1831,4.9,76.7
+MH-PROV-0151,MetroHealth Partner Provider 151,Laboratory,Abuja,2918,72.2,89.1,4825,13.1,81.7
+MH-PROV-0152,MetroHealth Partner Provider 152,Hospital,Lagos,4218,71.4,85.7,2649,9.9,81.3
+MH-PROV-0153,MetroHealth Partner Provider 153,Hospital,Abuja,5534,60.3,85.4,1032,16.3,74.9
+MH-PROV-0154,MetroHealth Partner Provider 154,Hospital,Rivers,886,93.9,90.2,1084,4.8,93.2
+MH-PROV-0155,MetroHealth Partner Provider 155,Hospital,Rivers,2076,70.0,58.8,5693,15.6,71.0
+MH-PROV-0156,MetroHealth Partner Provider 156,Hospital,Lagos,5439,63.7,66.3,4952,7.9,73.0
+MH-PROV-0157,MetroHealth Partner Provider 157,Hospital,Rivers,5558,79.5,64.7,3835,16.5,76.3
+MH-PROV-0158,MetroHealth Partner Provider 158,Laboratory,Lagos,2542,63.0,61.6,395,5.6,72.0
+MH-PROV-0159,MetroHealth Partner Provider 159,Pharmacy,Abuja,1800,83.7,49.4,1788,15.0,73.8
+MH-PROV-0160,MetroHealth Partner Provider 160,Clinic,Rivers,1195,79.7,50.3,2577,7.4,74.8
+MH-PROV-0161,MetroHealth Partner Provider 161,Clinic,Kano,5349,78.5,72.5,2386,19.8,77.2
+MH-PROV-0162,MetroHealth Partner Provider 162,Clinic,Kano,5489,82.7,50.0,4549,19.5,72.2
+MH-PROV-0163,MetroHealth Partner Provider 163,Clinic,Lagos,708,92.8,97.1,5572,9.9,93.3
+MH-PROV-0164,MetroHealth Partner Provider 164,Pharmacy,Lagos,1360,86.9,61.8,4517,8.0,80.9
+MH-PROV-0165,MetroHealth Partner Provider 165,Clinic,Oyo,2676,88.8,75.1,1004,13.9,83.9
+MH-PROV-0166,MetroHealth Partner Provider 166,Hospital,Lagos,3613,75.6,50.7,4185,14.4,71.1
+MH-PROV-0167,MetroHealth Partner Provider 167,Clinic,Lagos,4387,84.8,86.4,3487,15.1,85.3
+MH-PROV-0168,MetroHealth Partner Provider 168,Laboratory,Lagos,3919,77.4,55.5,778,11.0,74.3
+MH-PROV-0169,MetroHealth Partner Provider 169,Specialist Center,Lagos,815,77.4,66.5,2504,16.9,75.8
+MH-PROV-0170,MetroHealth Partner Provider 170,Specialist Center,Rivers,4128,63.3,58.6,5770,13.9,68.7
+MH-PROV-0171,MetroHealth Partner Provider 171,Clinic,Abuja,1935,62.2,49.6,2506,13.7,65.6
+MH-PROV-0172,MetroHealth Partner Provider 172,Pharmacy,Lagos,3874,86.2,72.2,3160,10.2,83.1
+MH-PROV-0173,MetroHealth Partner Provider 173,Clinic,Lagos,1613,81.0,75.2,1864,10.6,81.8
+MH-PROV-0174,MetroHealth Partner Provider 174,Hospital,Lagos,1076,60.2,59.9,5911,15.0,67.6
+MH-PROV-0175,MetroHealth Partner Provider 175,Specialist Center,Abuja,747,93.5,39.3,4210,23.5,72.1
+MH-PROV-0176,MetroHealth Partner Provider 176,Hospital,Lagos,420,87.2,53.6,2675,16.0,76.2
+MH-PROV-0177,MetroHealth Partner Provider 177,Hospital,Abuja,4232,64.6,69.6,379,6.4,74.8
+MH-PROV-0178,MetroHealth Partner Provider 178,Pharmacy,Kano,1167,59.3,74.8,2212,19.5,70.3
+MH-PROV-0179,MetroHealth Partner Provider 179,Hospital,Lagos,2329,88.5,85.2,675,11.2,87.6
+MH-PROV-0180,MetroHealth Partner Provider 180,Hospital,Abuja,4998,70.3,92.1,1003,18.5,80.2
+MH-PROV-0181,MetroHealth Partner Provider 181,Pharmacy,Abuja,5861,78.0,61.0,1204,12.7,75.7
+MH-PROV-0182,MetroHealth Partner Provider 182,Hospital,Kano,6064,60.7,65.0,5418,13.6,69.7
+MH-PROV-0183,MetroHealth Partner Provider 183,Laboratory,Oyo,3899,91.1,21.6,2559,10.5,69.8
+MH-PROV-0184,MetroHealth Partner Provider 184,Clinic,Lagos,3427,87.6,43.0,3156,10.4,74.8
+MH-PROV-0185,MetroHealth Partner Provider 185,Hospital,Oyo,870,72.3,43.4,984,13.4,67.9
+MH-PROV-0186,MetroHealth Partner Provider 186,Specialist Center,Oyo,2660,75.7,44.3,917,4.1,72.3
+MH-PROV-0187,MetroHealth Partner Provider 187,Hospital,Kano,4573,84.0,70.1,2620,12.1,81.0
+MH-PROV-0188,MetroHealth Partner Provider 188,Pharmacy,Lagos,640,86.1,51.4,5829,15.0,75.4
+MH-PROV-0189,MetroHealth Partner Provider 189,Hospital,Oyo,3936,75.0,45.0,5104,13.3,69.5
+MH-PROV-0190,MetroHealth Partner Provider 190,Hospital,Abuja,4099,72.7,59.5,4228,10.3,73.8
+MH-PROV-0191,MetroHealth Partner Provider 191,Clinic,Lagos,2286,63.2,69.1,5934,5.5,74.4
+MH-PROV-0192,MetroHealth Partner Provider 192,Hospital,Abuja,3798,70.0,74.7,2319,19.3,74.6
+MH-PROV-0193,MetroHealth Partner Provider 193,Pharmacy,Kano,687,86.7,21.8,5949,19.5,65.4
+MH-PROV-0194,MetroHealth Partner Provider 194,Pharmacy,Abuja,5264,100.0,68.6,5782,13.1,86.6
+MH-PROV-0195,MetroHealth Partner Provider 195,Pharmacy,Abuja,4702,74.4,48.9,5266,13.5,70.4
+MH-PROV-0196,MetroHealth Partner Provider 196,Laboratory,Rivers,6365,84.6,59.2,835,21.5,75.2
+MH-PROV-0197,MetroHealth Partner Provider 197,Clinic,Oyo,2299,61.5,74.2,5341,17.2,71.7
+MH-PROV-0198,MetroHealth Partner Provider 198,Specialist Center,Lagos,870,63.4,74.7,5205,8.3,75.3
+MH-PROV-0199,MetroHealth Partner Provider 199,Pharmacy,Lagos,4516,68.4,65.9,4107,11.4,73.7
+MH-PROV-0200,MetroHealth Partner Provider 200,Laboratory,Lagos,1540,98.0,77.6,2552,14.0,88.3
+MH-PROV-0201,MetroHealth Partner Provider 201,Hospital,Rivers,5302,74.5,45.7,2382,10.2,70.4
+MH-PROV-0202,MetroHealth Partner Provider 202,Pharmacy,Lagos,2097,86.4,36.2,4956,6.2,73.6
+MH-PROV-0203,MetroHealth Partner Provider 203,Hospital,Kano,2287,66.9,48.2,5844,22.6,64.4
+MH-PROV-0204,MetroHealth Partner Provider 204,Hospital,Lagos,1167,73.5,45.3,5195,13.3,69.0
+MH-PROV-0205,MetroHealth Partner Provider 205,Hospital,Lagos,4566,82.5,90.2,2334,9.7,87.2
+MH-PROV-0206,MetroHealth Partner Provider 206,Specialist Center,Abuja,5288,47.3,37.4,888,12.2,56.5
+MH-PROV-0207,MetroHealth Partner Provider 207,Hospital,Lagos,1470,75.4,70.7,2761,9.0,78.7
+MH-PROV-0208,MetroHealth Partner Provider 208,Hospital,Oyo,1663,83.9,66.5,968,11.5,80.1
+MH-PROV-0209,MetroHealth Partner Provider 209,Hospital,Abuja,2946,81.1,59.8,4190,14.5,76.0
+MH-PROV-0210,MetroHealth Partner Provider 210,Clinic,Lagos,5812,60.7,56.4,1695,9.8,68.3
+MH-PROV-0211,MetroHealth Partner Provider 211,Laboratory,Abuja,4840,85.5,41.4,5955,15.7,71.9
+MH-PROV-0212,MetroHealth Partner Provider 212,Specialist Center,Lagos,3541,85.7,69.7,1455,23.8,78.0
+MH-PROV-0213,MetroHealth Partner Provider 213,Laboratory,Rivers,5649,79.4,28.7,3323,15.7,65.7
+MH-PROV-0214,MetroHealth Partner Provider 214,Clinic,Oyo,5182,79.3,37.5,4726,11.0,69.7
+MH-PROV-0215,MetroHealth Partner Provider 215,Hospital,Kano,1889,86.6,72.0,2379,7.4,84.0
+MH-PROV-0216,MetroHealth Partner Provider 216,Specialist Center,Oyo,4703,76.0,45.5,4123,6.9,72.0
+MH-PROV-0217,MetroHealth Partner Provider 217,Specialist Center,Abuja,876,84.0,82.0,2631,18.3,82.7
+MH-PROV-0218,MetroHealth Partner Provider 218,Hospital,Lagos,2915,91.2,74.4,1958,15.1,84.3
+MH-PROV-0219,MetroHealth Partner Provider 219,Hospital,Lagos,1476,56.1,63.6,486,8.5,69.0
+MH-PROV-0220,MetroHealth Partner Provider 220,Hospital,Lagos,2350,72.7,48.6,3869,8.8,71.0
+MH-PROV-0221,MetroHealth Partner Provider 221,Hospital,Kano,5255,65.3,53.3,1182,17.5,66.9
+MH-PROV-0222,MetroHealth Partner Provider 222,Hospital,Lagos,2692,75.7,44.7,3789,6.4,71.8
+MH-PROV-0223,MetroHealth Partner Provider 223,Clinic,Lagos,5852,95.9,55.4,4449,13.4,81.0
+MH-PROV-0224,MetroHealth Partner Provider 224,Clinic,Rivers,1539,84.2,63.1,5372,10.5,79.5
+MH-PROV-0225,MetroHealth Partner Provider 225,Clinic,Abuja,6107,73.3,55.8,4434,10.1,73.0
+MH-PROV-0226,MetroHealth Partner Provider 226,Laboratory,Rivers,3027,65.2,57.7,5177,7.7,71.1
+MH-PROV-0227,MetroHealth Partner Provider 227,Clinic,Lagos,4512,69.7,74.4,498,16.1,75.4
+MH-PROV-0228,MetroHealth Partner Provider 228,Clinic,Lagos,5087,83.0,90.8,3648,24.9,83.0
+MH-PROV-0229,MetroHealth Partner Provider 229,Hospital,Oyo,3845,79.5,51.0,4332,5.2,75.5
+MH-PROV-0230,MetroHealth Partner Provider 230,Hospital,Rivers,1712,74.0,68.6,3352,25.5,72.5
+MH-PROV-0231,MetroHealth Partner Provider 231,Specialist Center,Kano,274,89.4,90.0,5643,9.8,89.8
+MH-PROV-0232,MetroHealth Partner Provider 232,Clinic,Lagos,4288,81.2,77.8,1521,11.2,82.5
+MH-PROV-0233,MetroHealth Partner Provider 233,Clinic,Oyo,6409,52.9,74.2,437,11.9,69.8
+MH-PROV-0234,MetroHealth Partner Provider 234,Clinic,Abuja,4718,61.9,68.0,2311,4.6,73.8
+MH-PROV-0235,MetroHealth Partner Provider 235,Pharmacy,Lagos,4017,88.7,60.1,1635,7.4,81.3
+MH-PROV-0236,MetroHealth Partner Provider 236,Clinic,Oyo,1202,75.8,57.9,1700,23.9,70.5
+MH-PROV-0237,MetroHealth Partner Provider 237,Clinic,Lagos,1808,82.4,82.4,1800,17.1,82.6
+MH-PROV-0238,MetroHealth Partner Provider 238,Hospital,Oyo,3569,62.1,44.0,3814,4.9,66.6
+MH-PROV-0239,MetroHealth Partner Provider 239,Laboratory,Abuja,1723,87.2,82.9,757,3.7,88.6
+MH-PROV-0240,MetroHealth Partner Provider 240,Laboratory,Oyo,6041,77.2,75.8,1889,15.6,78.9
+MH-PROV-0241,MetroHealth Partner Provider 241,Pharmacy,Abuja,4535,78.3,72.8,3665,8.9,80.5
+MH-PROV-0242,MetroHealth Partner Provider 242,Hospital,Abuja,5771,70.1,70.0,2552,13.8,74.9
+MH-PROV-0243,MetroHealth Partner Provider 243,Hospital,Kano,2475,84.4,100.0,4551,9.9,90.8
+MH-PROV-0244,MetroHealth Partner Provider 244,Hospital,Lagos,2645,77.0,80.6,3042,11.7,81.5
+MH-PROV-0245,MetroHealth Partner Provider 245,Hospital,Oyo,4706,88.9,59.5,3935,8.4,80.9
+MH-PROV-0246,MetroHealth Partner Provider 246,Hospital,Kano,4424,81.2,46.6,5202,7.7,74.2
+MH-PROV-0247,MetroHealth Partner Provider 247,Specialist Center,Abuja,399,65.3,63.2,2747,11.3,71.7
+MH-PROV-0248,MetroHealth Partner Provider 248,Clinic,Lagos,3211,64.3,71.0,2810,10.4,73.9
+MH-PROV-0249,MetroHealth Partner Provider 249,Laboratory,Rivers,3937,77.3,67.3,5806,15.5,76.5
+MH-PROV-0250,MetroHealth Partner Provider 250,Specialist Center,Lagos,2758,72.6,81.4,5239,13.3,79.5
+MH-PROV-0251,MetroHealth Partner Provider 251,Specialist Center,Rivers,2410,69.4,72.8,2138,1.3,79.2
+MH-PROV-0252,MetroHealth Partner Provider 252,Specialist Center,Abuja,4062,68.4,54.5,4301,2.5,73.0
+MH-PROV-0253,MetroHealth Partner Provider 253,Hospital,Oyo,1705,75.0,45.4,3368,15.4,69.0
+MH-PROV-0254,MetroHealth Partner Provider 254,Clinic,Lagos,6378,66.4,78.4,3469,10.2,77.0
+MH-PROV-0255,MetroHealth Partner Provider 255,Specialist Center,Lagos,5643,72.2,80.1,3362,14.0,78.7
+MH-PROV-0256,MetroHealth Partner Provider 256,Pharmacy,Lagos,2627,79.1,83.7,4817,8.7,84.1
+MH-PROV-0257,MetroHealth Partner Provider 257,Specialist Center,Abuja,1457,84.7,55.3,4461,8.1,78.0
+MH-PROV-0258,MetroHealth Partner Provider 258,Laboratory,Lagos,3318,73.5,55.1,1572,10.5,72.8
+MH-PROV-0259,MetroHealth Partner Provider 259,Clinic,Kano,3189,81.5,48.2,1133,21.1,70.7
+MH-PROV-0260,MetroHealth Partner Provider 260,Hospital,Lagos,3986,68.7,97.1,2257,11.8,83.1
+MH-PROV-0261,MetroHealth Partner Provider 261,Pharmacy,Kano,1907,83.8,30.5,3729,14.1,68.4
+MH-PROV-0262,MetroHealth Partner Provider 262,Pharmacy,Lagos,1835,70.2,46.7,1683,15.0,67.6
+MH-PROV-0263,MetroHealth Partner Provider 263,Laboratory,Lagos,2624,58.5,25.0,5867,13.4,56.9
+MH-PROV-0264,MetroHealth Partner Provider 264,Pharmacy,Lagos,5263,75.4,100.0,4406,20.7,84.0
+MH-PROV-0265,MetroHealth Partner Provider 265,Hospital,Kano,5542,78.3,100.0,4730,8.1,88.9
+MH-PROV-0266,MetroHealth Partner Provider 266,Hospital,Lagos,2096,58.5,82.7,5301,10.5,75.1
+MH-PROV-0267,MetroHealth Partner Provider 267,Laboratory,Lagos,4298,89.3,79.6,1313,9.8,86.7
+MH-PROV-0268,MetroHealth Partner Provider 268,Clinic,Oyo,2679,77.0,68.4,2567,10.7,78.1
+MH-PROV-0269,MetroHealth Partner Provider 269,Pharmacy,Abuja,6116,78.9,52.8,4973,14.3,73.1
+MH-PROV-0270,MetroHealth Partner Provider 270,Laboratory,Kano,5827,45.5,34.8,5000,3.8,57.5
+MH-PROV-0271,MetroHealth Partner Provider 271,Hospital,Lagos,2299,59.5,55.4,3515,5.9,68.6
+MH-PROV-0272,MetroHealth Partner Provider 272,Pharmacy,Abuja,1506,95.6,40.9,3977,12.0,76.9
+MH-PROV-0273,MetroHealth Partner Provider 273,Pharmacy,Rivers,4424,59.3,45.9,3574,15.4,62.9
+MH-PROV-0274,MetroHealth Partner Provider 274,Clinic,Lagos,826,77.8,38.2,1197,12.9,68.7
+MH-PROV-0275,MetroHealth Partner Provider 275,Laboratory,Oyo,1297,79.9,62.9,4265,4.7,79.4
+MH-PROV-0276,MetroHealth Partner Provider 276,Hospital,Lagos,4676,87.2,67.7,4405,10.6,82.0
+MH-PROV-0277,MetroHealth Partner Provider 277,Pharmacy,Rivers,6450,69.3,46.5,1547,15.2,67.1
+MH-PROV-0278,MetroHealth Partner Provider 278,Clinic,Lagos,3790,73.6,48.5,3366,7.2,71.8
+MH-PROV-0279,MetroHealth Partner Provider 279,Pharmacy,Kano,5900,76.9,62.4,5725,10.7,76.3
+MH-PROV-0280,MetroHealth Partner Provider 280,Hospital,Lagos,5280,76.1,80.9,358,15.9,79.9
+MH-PROV-0281,MetroHealth Partner Provider 281,Laboratory,Rivers,6283,63.1,52.2,898,13.5,66.8
+MH-PROV-0282,MetroHealth Partner Provider 282,Clinic,Rivers,4243,66.3,22.7,5012,8.3,60.8
+MH-PROV-0283,MetroHealth Partner Provider 283,Hospital,Lagos,645,88.6,68.3,3391,10.2,82.9
+MH-PROV-0284,MetroHealth Partner Provider 284,Clinic,Lagos,4710,74.3,64.4,2155,12.6,75.3
+MH-PROV-0285,MetroHealth Partner Provider 285,Pharmacy,Abuja,1448,84.9,67.3,4058,10.1,81.1
+MH-PROV-0286,MetroHealth Partner Provider 286,Pharmacy,Kano,4424,90.8,59.6,1862,12.1,80.6
+MH-PROV-0287,MetroHealth Partner Provider 287,Specialist Center,Abuja,2234,91.1,81.5,1117,17.4,85.7
+MH-PROV-0288,MetroHealth Partner Provider 288,Pharmacy,Rivers,5887,82.1,39.9,1182,3.7,73.7
+MH-PROV-0289,MetroHealth Partner Provider 289,Pharmacy,Abuja,4086,89.0,61.9,1623,4.6,82.8
+MH-PROV-0290,MetroHealth Partner Provider 290,Pharmacy,Kano,4013,79.3,100.0,755,19.1,86.0
+MH-PROV-0291,MetroHealth Partner Provider 291,Hospital,Rivers,413,69.5,52.0,3998,4.7,72.0
+MH-PROV-0292,MetroHealth Partner Provider 292,Hospital,Kano,2116,81.8,75.3,5578,16.5,80.4
+MH-PROV-0293,MetroHealth Partner Provider 293,Hospital,Abuja,2447,78.9,66.7,1782,19.1,75.8
+MH-PROV-0294,MetroHealth Partner Provider 294,Hospital,Oyo,1693,83.9,85.6,3732,10.4,86.1
+MH-PROV-0295,MetroHealth Partner Provider 295,Hospital,Abuja,466,83.9,82.3,1799,13.3,84.3
+MH-PROV-0296,MetroHealth Partner Provider 296,Laboratory,Kano,4524,69.7,49.5,3462,6.5,70.8
+MH-PROV-0297,MetroHealth Partner Provider 297,Clinic,Rivers,4655,87.5,47.5,2103,15.9,74.5
+MH-PROV-0298,MetroHealth Partner Provider 298,Laboratory,Lagos,1052,80.4,79.2,4804,8.7,83.3
+MH-PROV-0299,MetroHealth Partner Provider 299,Hospital,Rivers,2481,80.1,53.9,874,14.9,73.7
+MH-PROV-0300,MetroHealth Partner Provider 300,Clinic,Rivers,727,74.6,21.3,1925,16.4,61.3
