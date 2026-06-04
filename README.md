@@ -303,16 +303,11 @@ The target-state enterprise architecture consists of:
 
 ## Application Screenshots
 
-![AI Intelligence Center](../screenshots/ai_intelligence.png)
-
-![CEO Strategic Dashboard](../screenshots/ceo_strategic_dashboard.png)
-
-![Claims Intelligence Center](../screenshots/claims_intelligence.png)
-
-![Executive AI Copilot](../screenshots/executive_ai_copilot.png)
-
-![Transformation Strategy](../screenshots/transformation_strategy.png)
-
+![AI Intelligence Center](screenshots/ai_intelligence.png)
+![CEO Strategic Dashboard](screenshots/ceo_strategic_dashboard.png)
+![Claims Intelligence Center](screenshots/claims_intelligence.png)
+![Executive AI Copilot](screenshots/executive_ai_copilot.png)
+![Transformation Strategy](screenshots/transformation_strategy.png)
 ---
 
 # Technology Stack
